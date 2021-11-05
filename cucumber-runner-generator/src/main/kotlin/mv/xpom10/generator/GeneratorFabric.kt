@@ -1,8 +1,5 @@
 package mv.xpom10.generator
 
-import mv.xpom10.generator.GenerateTypes
-import mv.xpom10.generator.GeneratorByFeatures
-import mv.xpom10.generator.GeneratorByScenarios
 import java.lang.RuntimeException
 
 object GeneratorFabric {
